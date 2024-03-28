@@ -49,8 +49,4 @@ Dynamic professional with an MBA in Strategic Value Creation experienced in fina
 
 ## Skills
 
-- Python | SQL | VBA | Power BI and Dashboard Automation | Advanced Excel and Pivot Tables
-- Git/Github | Data Analysis and Interpretation | Data Modeling | Business Analytics
-- Process and Efficiency Improvement | Report Development | Market Research
-- Market Analysis | Market Insights | Strategic Planning and Execution
-- Innovative Problem Solver | Self-Starter
+Python | SQL | VBA | Power BI and Dashboard Automation | Advanced Excel and Pivot Tables | Git/Github | Data Analysis and Interpretation | Data Modeling | Business Analytics | Process and Efficiency Improvement | Report Development | Market Research | Market Analysis | Market Insights | Strategic Planning and Execution | Innovative Problem Solver | Self-Starter
