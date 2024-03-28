@@ -2,8 +2,8 @@
 
 - **Email:** tibbitts.chris@gmail.com
 - **Phone:** (801) 289-6208
-- **LinkedIn:** [LinkedIn Profile](#)
-- **GitHub:** [GitHub Profile](#)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/christopher-tibbitts/)
+- **GitHub:** [GitHub Profile](https://github.com/ctibby)
 - **Location:** Palo Alto, CA
 
 ## Professional Summary
